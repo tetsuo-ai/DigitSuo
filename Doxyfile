@@ -1,0 +1,71 @@
+# Project information
+PROJECT_NAME          = "DigitSuo Neural Network Digit Recognition"
+PROJECT_NUMBER        = 1.0
+PROJECT_BRIEF         = "Handwritten digit recognition system"
+OUTPUT_DIRECTORY      = docs
+
+# Input files
+INPUT                 = src train.c README.md
+FILE_PATTERNS         = *.c *.h
+RECURSIVE             = YES
+
+# Output options
+GENERATE_HTML         = YES
+GENERATE_LATEX        = NO
+GENERATE_XML          = NO
+
+# Diagrams and graphs
+HAVE_DOT             = YES
+DOT_IMAGE_FORMAT     = svg
+INTERACTIVE_SVG      = YES
+DOT_GRAPH_MAX_NODES  = 100
+CALL_GRAPH           = YES
+CALLER_GRAPH         = YES
+COLLABORATION_GRAPH  = YES
+UML_LOOK            = YES
+CLASS_GRAPH          = YES
+INCLUDE_GRAPH        = YES
+GRAPHICAL_HIERARCHY  = YES
+DIRECTORY_GRAPH      = YES
+DOT_MULTI_TARGETS    = YES
+MAX_DOT_GRAPH_DEPTH  = 0
+DOT_CLEANUP          = YES
+
+# Documentation style
+EXTRACT_ALL          = YES
+EXTRACT_PRIVATE      = YES
+EXTRACT_STATIC       = YES
+EXTRACT_LOCAL_CLASSES = YES
+EXTRACT_LOCAL_METHODS = YES
+EXTRACT_ANON_NSPACES = YES
+
+# Source browsing
+SOURCE_BROWSER       = YES
+INLINE_SOURCES      = YES
+STRIP_CODE_COMMENTS = NO
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION  = YES
+
+# Enhanced documentation
+OPTIMIZE_OUTPUT_FOR_C = YES
+BUILTIN_STL_SUPPORT = NO
+MARKDOWN_SUPPORT    = YES
+TOC_INCLUDE_HEADINGS = 5
+
+# HTML output customization
+HTML_DYNAMIC_SECTIONS = YES
+GENERATE_TREEVIEW    = YES
+SEARCHENGINE         = YES
+HTML_EXTRA_STYLESHEET = doxygen-custom.css
+HTML_COLORSTYLE      = LIGHT
+HTML_INDEX_NUM_ENTRIES = 100
+ENUM_VALUES_PER_LINE = 1
+GENERATE_DOCSET      = NO
+DISABLE_INDEX        = NO
+GENERATE_LEGEND      = YES
+
+# Warning and progress messages
+QUIET                = NO
+WARNINGS             = YES
+WARN_IF_UNDOCUMENTED = YES
+WARN_IF_DOC_ERROR    = YES

@@ -1,0 +1,13 @@
+<map id="draw_point_with_neighbors" name="draw_point_with_neighbors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="825,5,1025,31"/>
+<area shape="rect" id="Node000002" href="$draw__interface_8c.html#ae89db5b75abff68dc9c10bf87370036e" title=" " alt="" coords="692,5,777,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="811,21,777,21,777,15,811,15"/>
+<area shape="rect" id="Node000003" href="$draw__interface_8c.html#a1d78a5537da73e9e0c1c46ff57670bcb" title=" " alt="" coords="483,5,644,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="678,21,644,21,644,15,678,15"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a66b7ffbb86aeea785d37a6ba05ac5f7b" title=" " alt="" coords="268,5,435,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="469,21,435,21,435,15,469,15"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a06b78cf19a7870244bb1fcf3cf8b1188" title=" " alt="" coords="108,5,220,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,21,220,21,220,15,254,15"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

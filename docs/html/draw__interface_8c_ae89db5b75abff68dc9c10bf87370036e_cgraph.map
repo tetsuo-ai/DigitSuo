@@ -1,0 +1,7 @@
+<map id="draw_line" name="draw_line">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,91,31"/>
+<area shape="rect" id="Node000002" href="$draw__interface_8c.html#a4c078eca06d8f6d2b73be94479346a81" title=" " alt="" coords="139,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,15,125,15,125,21,91,21"/>
+<area shape="rect" id="Node000003" href="$draw__interface_8c.html#ae33641352570bac2c068f9a8b0a65bf4" title=" " alt="" coords="387,5,517,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,15,373,15,373,21,339,21"/>
+</map>

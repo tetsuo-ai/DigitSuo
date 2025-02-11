@@ -1,0 +1,19 @@
+<map id="reset_cells" name="reset_cells">
+<area shape="rect" id="Node000001" title=" " alt="" coords="791,81,883,107"/>
+<area shape="rect" id="Node000002" href="$draw__interface_8c.html#a5d388b991a24af37be16f95b67b4a054" title=" " alt="" coords="656,56,743,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,86,743,79,744,74,778,80"/>
+<area shape="rect" id="Node000007" href="$draw__interface_8c.html#a5b64deeee9cccbfca98154b87818c3ac" title=" " alt="" coords="662,105,737,131"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="778,107,737,114,736,109,777,102"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1c4840b45de140502290de0163a54697" title=" " alt="" coords="464,5,608,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="644,54,577,33,579,28,645,49"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a06b78cf19a7870244bb1fcf3cf8b1188" title=" " alt="" coords="108,56,220,81"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="642,71,220,71,220,66,642,66"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#aba2e57f6612dd678b1dfdad86707577c" title=" " alt="" coords="268,5,416,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,21,416,21,416,15,450,15"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="284,37,210,58,209,53,283,32"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,81,60,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="95,85,61,91,60,86,94,79"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#ab6807dd21386bc6486fd2d7c70de09bc" title=" " alt="" coords="289,107,395,132"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="648,121,395,122,395,116,648,116"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="275,117,60,99,61,94,276,111"/>
+</map>

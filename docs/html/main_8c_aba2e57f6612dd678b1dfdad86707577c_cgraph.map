@@ -1,0 +1,13 @@
+<map id="process_digit_input" name="process_digit_input">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1c4840b45de140502290de0163a54697" title=" " alt="" coords="201,31,345,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,41,188,41,188,46,154,46"/>
+<area shape="rect" id="Node000003" href="$draw__interface_8c.html#a5d388b991a24af37be16f95b67b4a054" title=" " alt="" coords="447,5,534,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,32,433,22,434,27,346,38"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a989d26adde192591ed2d32ab926af1dc" title=" " alt="" coords="393,55,588,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="346,49,380,52,379,58,345,54"/>
+<area shape="rect" id="Node000004" href="$draw__interface_8c.html#a736c07e980bc72f3cb0e669a3b54635b" title=" " alt="" coords="639,5,731,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,15,625,15,625,21,534,21"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a6b0a41ade27197426a0d74dd7b13d20d" title=" " alt="" coords="636,55,733,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="588,65,622,65,622,70,588,70"/>
+</map>

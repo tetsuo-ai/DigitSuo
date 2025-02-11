@@ -1,0 +1,10 @@
+<map id="handle_mouse_event" name="handle_mouse_event">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,167,56"/>
+<area shape="rect" id="Node000002" href="$draw__interface_8c.html#ae89db5b75abff68dc9c10bf87370036e" title=" " alt="" coords="215,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,29,201,24,202,29,167,34"/>
+<area shape="rect" id="Node000004" href="$draw__interface_8c.html#ae33641352570bac2c068f9a8b0a65bf4" title=" " alt="" coords="596,31,727,56"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="167,41,582,41,582,46,167,46"/>
+<area shape="rect" id="Node000003" href="$draw__interface_8c.html#a4c078eca06d8f6d2b73be94479346a81" title=" " alt="" coords="348,5,548,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,15,334,15,334,21,300,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,27,582,31,582,37,548,33"/>
+</map>

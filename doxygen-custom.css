@@ -1,0 +1,155 @@
+body,
+table,
+div,
+p,
+dl {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Header styling */
+#projectname {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #2980b9;
+}
+
+#projectbrief {
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Navigation tree */
+#nav-tree {
+    background-color: #f8f9fa;
+    border-right: 1px solid #e1e4e8;
+}
+
+#nav-tree .selected {
+    background-image: none;
+    background-color: #2980b9;
+    color: white;
+}
+
+/* Content area */
+.contents {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Code blocks */
+div.fragment {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f6f8fa;
+    border: 1px solid #e1e4e8;
+}
+
+/* Function documentation */
+.memitem {
+    border: 1px solid #e1e4e8;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.memproto {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e1e4e8;
+    border-radius: 5px 5px 0 0;
+}
+
+.memdoc {
+    padding: 15px;
+}
+
+/* Tables */
+.directory {
+    border: 1px solid #e1e4e8;
+    border-radius: 5px;
+}
+
+.directory tr {
+    background-color: #ffffff;
+}
+
+.directory tr.even {
+    background-color: #f6f8fa;
+}
+
+/* Search box */
+#MSearchBox {
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+    border: 1px solid #e1e4e8;
+}
+
+/* Graphs */
+div.graph {
+    margin: 20px 0;
+}
+
+.graph img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Links */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Tabs */
+.tabs,
+.tabs2,
+.tabs3 {
+    background-image: none;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e1e4e8;
+}
+
+.tablist li {
+    background-image: none;
+}
+
+.tablist a {
+    background-image: none;
+    color: #666;
+}
+
+.tablist a:hover {
+    background-image: none;
+    background-color: #e9ecef;
+    color: #2980b9;
+}
+
+.tablist li.current a {
+    background-image: none;
+    background-color: #ffffff;
+    color: #2980b9;
+    border-bottom: 2px solid #2980b9;
+}
+
+/* Improve graph visibility */
+.graph {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #e1e4e8;
+    margin: 20px 0;
+}
+
+.zoom {
+    background-color: #f8f9fa;
+    padding: 5px;
+    border-radius: 3px;
+}

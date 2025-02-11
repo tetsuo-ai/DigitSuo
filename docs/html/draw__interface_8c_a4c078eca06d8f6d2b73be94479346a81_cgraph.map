@@ -1,0 +1,5 @@
+<map id="draw_point_with_neighbors" name="draw_point_with_neighbors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,205,31"/>
+<area shape="rect" id="Node000002" href="$draw__interface_8c.html#ae33641352570bac2c068f9a8b0a65bf4" title=" " alt="" coords="253,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,15,239,15,239,21,206,21"/>
+</map>
