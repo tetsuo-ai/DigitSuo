@@ -1,4 +1,3 @@
-```markdown
 # DigitSuo
 
 ## $TETSUO on Solana
