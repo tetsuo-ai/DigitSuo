@@ -163,7 +163,6 @@ Access the documentation at [http://localhost:8000](http://localhost:8000).
 ├── Makefile                  # Build configuration
 ├── README.md                 # Project documentation
 ├── docs/                     # Documentation directory (generated)
-├── env/                      # Virtual environment directory (if used)
 ├── serve_docs.py             # Script to serve documentation
 ├── train-images-idx3-ubyte.gz # MNIST training images (compressed)
 ├── train-labels-idx1-ubyte.gz # MNIST training labels (compressed)
@@ -187,5 +186,4 @@ Adjust neural network parameters in `train.c`:
 #define BATCH_SIZE 64        // Training batch size
 #define NUM_EPOCHS 10        // Maximum training epochs
 #define BASE_LR 0.1f         // Initial learning rate
-```
 ```
