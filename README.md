@@ -11,6 +11,8 @@
 
 A neural network–based digit recognition project using the MNIST dataset.
 
+<img src="https://github.com/user-attachments/assets/544f7d99-563e-4766-af2b-db1649b23d23" alt="image" width="500">
+
 ## Installation
 
 1. **Clone the Repository**
@@ -167,7 +169,7 @@ Access the documentation at [http://localhost:8000](http://localhost:8000).
 ├── train-images-idx3-ubyte.gz # MNIST training images (compressed)
 ├── train-labels-idx1-ubyte.gz # MNIST training labels (compressed)
 ├── train.c                   # Training program source
-└── src/                     # Source code for recognition interface
+└── src/                      # Source code for recognition interface
     ├── main.c
     ├── draw_interface.c
     ├── neural_net.c
