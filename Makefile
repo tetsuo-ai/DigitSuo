@@ -1,4 +1,4 @@
-CC = gcc
+CC = /opt/homebrew/bin/gcc-14
 CFLAGS = -Wall -Wextra -O2 -Wunused -Wuninitialized -Wshadow
 LDFLAGS = -lncurses -lm
 
