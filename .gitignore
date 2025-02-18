@@ -1,0 +1,7 @@
+debug.log
+digit_recognition
+train
+main.o
+train-images-idx3-ubyte.gz
+train-labels-idx1-ubyte.gz
+doc/html/
