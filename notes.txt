@@ -1,0 +1,4 @@
+  export LDFLAGS="-L/opt/homebrew/opt/ncurses/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/ncurses/include"
+
+  
